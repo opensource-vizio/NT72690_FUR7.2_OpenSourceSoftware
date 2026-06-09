@@ -1,8 +1,8 @@
 # NT72690\_FUR7.2\_OpenSourceSoftware
 
 ## Environment
-Individual build components may list different versions of Ubuntu for compilation in their respective readme / build instruction files.
-However, all modules here in were compiled successfully in Ubuntu 22.04 (jammy).
+Individual build components may list different versions of Ubuntu for compilation in their respective README or build instruction files.
+However, all components were compiled successfully on Ubuntu 22.04 (jammy).
 
 ### Preparing your Ubuntu environment
 Run the following commands:
