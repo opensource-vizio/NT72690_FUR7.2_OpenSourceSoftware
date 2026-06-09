@@ -14,6 +14,9 @@ sudo apt-get install docker.io docker-buildx make
 You may also want to add your user to the docker group (`adduser <username> docker`), and log out
 and back in. This will remove the need to run docker commands via sudo.
 
+### Memory Advisory
+Be advised that compiling the SoC vendor kernel requires a large amount of RAM- more than 32GB.
+
 ## Build Instructions 
 After downloading the tarball, run the following commands:
 ```
